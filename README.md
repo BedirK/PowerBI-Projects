@@ -1,2 +1,2 @@
-# Power BI_Studies
+# PowerBI_Studies
 Data Visualisation Studies (by PowerBI)
