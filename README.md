@@ -1,6 +1,7 @@
 # PowerBI_Projects
 Data Visualisation Projects (by PowerBI)
-## Project 01 - IT Professionals Survey Breakdown
+## Project 01 
+## IT Professionals Survey Breakdown
 This survey analysis was conducted in the last quarter of 2022 and offers a comprehensive exploration of the data professional community, providing valuable insights and information.
 ### Global Perspective - Key Metrics - Insights
 A dynamic treemap illustrating survey participants by country, providing insights into global participation in the data profession.
