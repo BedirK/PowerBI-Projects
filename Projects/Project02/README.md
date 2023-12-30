@@ -4,8 +4,8 @@
 This [dataset](https://github.com/BedirK/PowerBI-Projects/blob/main/Projects/Project02/retail_analysis_data.xlsx) was obtained using sales data from two retail chains based in Australia, with data spanning from January 2016 to July 2017. 
 There is a dimension table that categorizes sales data based on the financial year, financial quarter, and financial year month. Additionally, there's detailed information on postcodes, linking to specific suburbs and states. And also categorized buyers for product categories and managers for different suburbs.
 ### Dashboard Preparation Steps
- - Query Editor to add columns for  calculating total sales, total cost, and gross profit values
- - Power pivot modeling to create relationships between separate tables (Sales and Dates)
+ - Using Query Editor to add columns for  calculating total sales, total cost, and gross profit values
+ - Editing Power Pivot [model](https://github.com/BedirK/PowerBI-Projects/blob/main/Projects/Project02/DataModel.png) to create relationships between separate tables (Sales and Dates)
  - Selecting visualization types
  - Formatting visual details and report
 ### Global Perspective - Key Metrics - Insights
