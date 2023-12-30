@@ -20,9 +20,7 @@ The "Regions and Chains" dashboard outputs:
 
 - VIC State experienced a consistent sales rise from January 2016 onwards.
 - John Gardner in NSW State played a significant role in ready-wear sales. Ready-wear outperformed Bellings notably in NSW.
-- Ready Wear saw a steep sales increase between April 1, 2016, and September 1, 2016.
 - Bruce Curran held the highest sales, marking a substantial portion of total sales, contrasting starkly with Ella Hickman's lower sales contribution.
-
 
 
 ## [Summary Dashboard](https://github.com/BedirK/PowerBI-Projects/blob/8b295813a77f24f529677e793b768975dba7b1c8/Projects/Project02/Retail%20Analysis.pdf)
