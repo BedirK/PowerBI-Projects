@@ -6,4 +6,4 @@ This dataset was obtained using sales data from two retail chains based in Austr
 
 
 
-
+[Summary Dashboard](https://github.com/BedirK/PowerBI-Projects/blob/8b295813a77f24f529677e793b768975dba7b1c8/Projects/Project02/Retail%20Analysis.pdf)
