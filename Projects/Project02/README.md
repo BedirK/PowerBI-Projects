@@ -7,6 +7,6 @@ A dynamic treemap illustrating survey participants by country, providing insight
 Quick insights with summary charts that show the total number and average age of attendees.
 Measure work-life balance and salary satisfaction with happiness gauges and understand the perceived difficulty of entering the data profession with a doughnut chart, providing valuable insight into career challenges.
 
-  ![image]([https://github.com/BedirK/PowerBI_Studies/assets/103532330/576661cf-15a1-40fa-945b-82c043ae5060](https://github.com/BedirK/PowerBI-Projects/blob/main/Projects/Project02/Retail%20Analysis.pdf)https://github.com/BedirK/PowerBI-Projects/blob/main/Projects/Project02/Retail%20Analysis.pdf)
+  ![image](https://github.com/BedirK/PowerBI-Projects/blob/main/Projects/Project02/Retail%20Analysis.pdf)
 
 
