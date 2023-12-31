@@ -20,6 +20,6 @@ The "[Regions and Chains](https://github.com/BedirK/PowerBI-Projects/blob/8b2958
 " dashboard outputs:
 
 - VIC State experienced a consistent sales rise from January 2016 onwards.
-- John Gardner in NSW State played a significant role in ready-wear sales. Ready-wear outperformed Bellings notably in NSW.
-- Bruce Curran held the highest sales, marking a substantial portion of total sales, contrasting starkly with Ella Hickman's lower sales contribution.
+- John Gardner in NSW State played a significant role in ready-wear sales and ready-wear outperformed bellings, particularly in this state.
+- Bruce Curran held the highest sales, marking a substantial portion of total sales, in contrast to Ella Hickman's lower sales contribution.
 
