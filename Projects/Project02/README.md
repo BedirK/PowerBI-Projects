@@ -23,3 +23,12 @@ The "[Regions and Chains](https://github.com/BedirK/PowerBI-Projects/blob/8b2958
 - John Gardner in NSW State played a significant role in ready-wear sales and ready-wear outperformed bellings, particularly in this state.
 - Bruce Curran held the highest sales, marking a substantial portion of total sales, in contrast to Ella Hickman's lower sales contribution.
 
+### Summary Dashboard
+-------------------------------
+![image](https://github.com/BedirK/PowerBI-Projects/assets/103532330/002c934a-c96c-4aad-bd78-7efc171eed13)
+
+
+### Regions and Chains Dashboard
+-------------------------------
+![image](https://github.com/BedirK/PowerBI-Projects/assets/103532330/171d72b4-402a-44da-90f6-b58a3b6c9904)
+
