@@ -13,4 +13,4 @@ For detailed information --> [Northwind Database Querying with MS SQL](https://g
 
 ![image](https://github.com/BedirK/PowerBI-Projects/assets/103532330/8b83772e-a850-4bd1-990f-0cf49d582a8d)
 
-![image](https://github.com/BedirK/PowerBI-Projects/assets/103532330/65a5753b-bc98-4463-90a6-bffed3e46442)
+![image](https://github.com/BedirK/PowerBI-Projects/assets/103532330/8f065155-2302-482a-b141-07af93c16a9d)
