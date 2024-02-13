@@ -9,8 +9,8 @@ For detailed information --> [Northwind Database Querying with MS SQL](https://g
  - Formatting visual details and report
 ### Overall View & Key Metrics 
 
-![image](https://github.com/BedirK/PowerBI-Projects/assets/103532330/1388d45b-ecbe-4e2a-90f9-da1c706005fa)
+![image](https://github.com/BedirK/PowerBI-Projects/assets/103532330/6e3be759-eec5-428b-9d05-b48f94acbd3b)
 
-![image](https://github.com/BedirK/PowerBI-Projects/assets/103532330/88fe08b3-ba2c-46a4-b412-c22c9882c84f)
+![image](https://github.com/BedirK/PowerBI-Projects/assets/103532330/8b83772e-a850-4bd1-990f-0cf49d582a8d)
 
-![image](https://github.com/BedirK/PowerBI-Projects/assets/103532330/e10ed873-6078-46de-81f1-702a7dffe800)
+![image](https://github.com/BedirK/PowerBI-Projects/assets/103532330/65a5753b-bc98-4463-90a6-bffed3e46442)
