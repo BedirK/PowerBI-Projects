@@ -7,6 +7,7 @@
      * 44.439 gozlem ve 14 grup
      * Veri setinin %10.24 luk kayip veri -- kayıp verilerin mean ve median değerleriyle doldurulması
      * Outlier analizi -- outlier verilere rastlanıldı - kepleme veya çıkartma yapılmadı
+     * Descriptive Analysis 
 
 
 
