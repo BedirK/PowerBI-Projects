@@ -3,11 +3,11 @@
 - BUSINESS UNDERSTANDING
 - DATA OVERVIEW & PREPARATION
 
-     * 2007-2019 yillarina ait satis-karbon ayak izi iliskili veri seti 
-     * 44.439 gozlem ve 14 grup
-     * Veri setinin %10.24 luk kayip veri -- kayıp verilerin mean ve median değerleriyle doldurulması
-     * Outlier analizi -- outlier verilere rastlanıldı - kepleme veya çıkartma yapılmadı
-     * Descriptive Analysis 
+  * Dataset related to sales-carbon footprint for the years 2007-2019
+  * Contains 44,439 observations and 14 groups
+  * 10.24% of the dataset consists of missing values - filled with mean and median values
+  * Outlier analysis - outlier data detected - capping or data elimination are not conducted
+  * Descriptive Analysis 
 
 
 
